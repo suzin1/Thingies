@@ -1,4 +1,4 @@
-Thingies In Class exercise
+In Class exercise
 ============
 1. Fork and clone down [this respository]("https://github.com/APCSLowell/Thingies")
 2. Open the Thingies folder in Sublime, or open Thingies.pde in Processing.
